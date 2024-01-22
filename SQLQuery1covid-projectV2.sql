@@ -1,3 +1,5 @@
+--https://ourworldindata.org/covid-deaths 
+--The Above link is from which the covid Dataset was downloaded and then analyzed using SQL through MicrosoftSQL Server
 Select *
 From PortfolioProject..CovidDeaths$
 where continent is not null
